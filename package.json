@@ -1,5 +1,5 @@
 {
-  "name": "css-utils",
+  "name": "@eunier/css-utils",
   "version": "1.0.0",
   "description": "Collection of css utilities classes.",
   "main": "src/index.ts",
