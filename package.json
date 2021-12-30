@@ -16,6 +16,7 @@
     "classes"
   ],
   "author": "Yunier Alvarez <yunieralvarez@gmail.com>",
+  "homepage": "https://github.com/eunier/css-utils",
   "license": "ISC",
   "dependencies": {
     "prettier": "^2.5.1",
